@@ -43,18 +43,20 @@
 - 🇷🇺(Native)
 - 🇬🇧(B2)
 
- **<h3 align="left">Programming skills</h3>**
+### <p align="center">Programming skills</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" height="28" style="margin-right: 4px"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="28" alt="Spring" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="28" alt="MySQL" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" style="margin-right: 4px">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
- **<h3 align="left">GitHub Stats and LeetCode Progress</h3>**
+
+ **<h3 align="center">GitHub Stats and LeetCode Progress</h3>**
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=kkwwaa&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
