@@ -41,7 +41,7 @@
 
 #### Languages👅:
 - 🇷🇺(Native)
-- 🇬🇧(B2)
+- en(B2)
 
 ### <p align="center">Programming skills</p>
 
