@@ -28,7 +28,7 @@
 </div>
 
 #### Work Career📈:
-- 2026.02: Looking for internship 👀
+- 2026: Looking for internship 👀
 
 #### Teaching Career👩‍🏫:
 - 2025.09-present time: [HSE Teaching Assistant in Project Seminar](https://www.hse.ru/en/edu/courses/1048943354)
