@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/katyabasova20062/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://drive.google.com/file/d/1ieFB9zIceHiVJMzbyub4NB5TBbNrwQ7Y/view?usp=sharing" target="_blank">
+  <a href="https://disk.yandex.ru/i/KjK-05VIFM_QVQ">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV">
   </a>
 </div>
