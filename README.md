@@ -56,10 +56,9 @@
 </p>
 
 
- **<h3 align="center">GitHub Stats and LeetCode Progress</h3>**
+ **<h3 align="center">LeetCode Progress</h3>**
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=kkwwaa&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
   
   <img src="https://leetcard.jacoblin.cool/katyabasova20062?theme=dark&font=Roboto" alt="LeetCode Stats"/>
 </p>
